@@ -9,4 +9,9 @@ It is an excellent method of quickly and efficiently labeling, changing and mana
  obtain mysql from http://dev.mysql.com/ according to your own platform
  
 ## Post Installation 
+Post-Installation includes
+1. Initializing the Data Tables:
+
+Data tables need to be initialized: 
+
 
