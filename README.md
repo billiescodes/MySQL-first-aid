@@ -24,6 +24,9 @@ if you get a copy of MySQL 5.7.6 or higher you do not need to execute mysql_inst
 to initialize the MySQL installation, run mysqld (found in mysql/bin) 
 
 
+--> after finishing installation: go to System Preferences (if you're running Mac OSX) and turn on the server
+
+
 
 
 
