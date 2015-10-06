@@ -12,6 +12,10 @@ It is an excellent method of quickly and efficiently labeling, changing and mana
 Post-Installation includes
 1. Initializing the Data Tables:
 
-Data tables need to be initialized: 
+Data tables need to be initialized, follow the following guide: 
+https://dev.mysql.com/doc/refman/5.7/en/data-directory-initialization.html
+
+- before initialization, it is important that all directories in BASEDIR are owned by mysql user
+- to do this execute the command: sudo chmod  775 data/
 
 
