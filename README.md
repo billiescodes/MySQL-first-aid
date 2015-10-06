@@ -17,5 +17,22 @@ https://dev.mysql.com/doc/refman/5.7/en/data-directory-initialization.html
 
 - before initialization, it is important that all directories in BASEDIR are owned by mysql user
 - to do this execute the command: sudo chmod  775 data/
+Understanding mysqld:
+https://dev.mysql.com/doc/refman/5.7/en/mysqld.html
+
+if you get a copy of MySQL 5.7.6 or higher you do not need to execute mysql_install_db
+to initialize the MySQL installation, run mysqld (found in mysql/bin) 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
